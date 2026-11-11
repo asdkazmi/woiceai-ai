@@ -1,0 +1,13 @@
+flask
+pdf2image
+python-docx
+flask_restful
+PyPDF2
+pymongo
+networkx
+requests
+bs4
+boto3
+python-dotenv
+beautifulsoup4
+selenium

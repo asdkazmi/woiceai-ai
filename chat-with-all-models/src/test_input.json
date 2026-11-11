@@ -1,0 +1,26 @@
+{
+  "input":{
+    "user_query": "What is meant by transformer",
+    "external_knowledge_access": false,
+    "enable_reference": true,
+    "kbId": "1101",
+    "history": [
+        {
+            "is_human": true,
+            "prompt": "what is chatbot"
+        },
+        {
+            "is_human": false,
+            "prompt": "chatbot is a chat assistant"
+        }
+    ],
+    "chat_arg": {
+        "temperature": 0.9,
+        "top_k": 60,
+        "top_p": 0.95,
+        "max_tokens": 700,
+        "frequency_penalty": 0.5,
+        "presence_penalty": 0.1
+    }
+}
+}
