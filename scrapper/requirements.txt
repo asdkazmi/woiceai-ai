@@ -1,0 +1,14 @@
+beautifulsoup4
+ipython
+Requests
+webdriver_manager
+selenium
+pandas
+flask
+flask_restful
+aiohttp
+asyncio
+python-dotenv
+networkx
+pymongo
+markdownify
